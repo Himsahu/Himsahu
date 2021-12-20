@@ -27,7 +27,7 @@
 
 <p align="center">
   <img width="53.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himsahu&layout=compact&theme=algolia&show_icons=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himsahu&layout=compact&theme=algolia" />
+<!--   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himsahu&layout=compact&theme=algolia" /> -->
 </p>
 <br/>
 
@@ -43,11 +43,10 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)&nbsp;
 ![SpringBootHibernate](https://img.shields.io/badge/-springboot-05122A?style=flat&logo=springboot)&nbsp;
 ![Flask](https://img.shields.io/badge/-flask-05122A?style=flat&logo=flask)&nbsp;
-
+![Angular9](https://img.shields.io/badge/-angular-05122A?style=flat&logo=angular)&nbsp;
 
 #### Technology
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/-googlecloud-05122A?style=flat&logo=googlecloud)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
@@ -68,6 +67,12 @@
   <summary>:zap: 🏆 Achievements</summary>
   
 </br>
+
+-🎖 [**Certification**] in Google Certification in Site Reliability Engineering, Google Certification in IT Support Professional.
+
+-🏅 [**Rank 51 **] in Palo Alto VM Network organized byGoogle.
+
+-🏆 [**Second Round**] of HCNA conducted by Huawei.
 
 -⭐ [**5 star at HackerRank**](https://www.hackerrank.com/himsahu_hs?hr_r=1) in Java Skills_.
 

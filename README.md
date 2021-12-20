@@ -6,15 +6,13 @@
 
 
 <details>
-  <summary>:zap: 🙋 About Me</summary>
+  <summary> 🙋 About Me</summary>
 
 - 👩‍🎓 I’m currently working as a **Software Engineer.**
 
 - 👩‍💻 I have worked on **Full Stack Development Projects.**
 
 - 🤠 I'm enthusiastic about learning new skills and technology. 
-
-- <img src="https://tenor.com/view/shake-hands-tom-and-jerry-jerry-gif-trending-gif-18539043" width="40px"> I enjoy contributing to **Open Source Projects.**
   
 - 📄 Curriculum Vitae - [**CV**](https://drive.google.com/file/d/1b4I1s_v-zpZ8NYm_FoRSDEXUZUf0rwLC/view?usp=sharing) 
   
@@ -64,15 +62,15 @@
 
 
 <details>
-  <summary>:zap: 🏆 Achievements</summary>
+  <summary> 🏆 Achievements</summary>
   
 </br>
 
--🎖 [**Certification**] in Google Certification in Site Reliability Engineering, Google Certification in IT Support Professional.
+-🎖 [**Certification**]() in Google Certification in Site Reliability Engineering, Google Certification in IT Support Professional.
 
--🏅 [**Rank 51 **] in Palo Alto VM Network organized byGoogle.
+-🏅 [**Rank 51 **]() in Palo Alto VM Network organized byGoogle.
 
--🏆 [**Second Round**] of HCNA conducted by Huawei.
+-🏆 [**Second Round**]() of HCNA conducted by Huawei.
 
 -⭐ [**5 star at HackerRank**](https://www.hackerrank.com/himsahu_hs?hr_r=1) in Java Skills_.
 
